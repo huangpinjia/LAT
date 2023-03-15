@@ -9,6 +9,11 @@
 系級:科技系115級
 
 
-課程筆記區
+# 課程筆記區
+
+https://github.com/huangpinjia/LAT/blob/main/HWone.ipynb
+
 作業連結區
+
+
 專題連結區
