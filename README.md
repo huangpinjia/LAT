@@ -18,6 +18,4 @@
 
 作業二:https://github.com/huangpinjia/LAT/blob/main/homeworktwo.ipynb
 
-http://localhost:8888/notebooks/Documents/GitHub/LATs/LAT/homeworktwo.ipynb
-
 # 專題連結區
