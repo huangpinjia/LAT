@@ -16,6 +16,6 @@
 
 作業一:https://github.com/huangpinjia/LAT/blob/main/HWone.ipynb
 
-作業二:https://github.com/huangpinjia/LAT/blob/main/homeworktwo.ipynb
+作業二:https://nbviewer.org/github/huangpinjia/LAT/blob/main/homeworktwo.ipynb
 
 # 專題連結區
