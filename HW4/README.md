@@ -1,0 +1,1 @@
+![Alt HotelReviewer](/path/to/img.jpg)
