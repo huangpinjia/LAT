@@ -18,4 +18,6 @@
 
 作業二:https://nbviewer.org/github/huangpinjia/LAT/blob/main/homeworktwo.ipynb
 
+作業三:https://nbviewer.org/github/huangpinjia/LAT/blob/main/HW3.ipynb
+
 # 專題連結區
