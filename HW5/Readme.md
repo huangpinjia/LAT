@@ -45,6 +45,7 @@ var imageType = data.imageType;
         }
 ```
 
+# 以下是輸出結果
 
 ![範例圖片01](01.png)
 
