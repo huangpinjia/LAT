@@ -18,7 +18,7 @@
 
 ##### HW2 整理數據並提出三個問題 : [Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/homeworktwo.ipynb)
 
-##### HW3 練習使用openAI : [Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/HW3.ipynb)
+##### HW3 練習使用openAI : [Code Link](https://github.com/huangpinjia/LAT/blob/main/HW3/HW3.ipynb)
 
 ##### HW4 使用Azure雲端服務製作自動回覆機器人 : [Result](https://github.com/huangpinjia/LAT/tree/main/HW4)
 
