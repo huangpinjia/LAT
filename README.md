@@ -14,14 +14,14 @@
 
 # 作業連結區
 
-##### HW1 問題拆解並輸出表格:[Code Link](https://github.com/huangpinjia/LAT/blob/main/HWone.ipynb)
+##### HW1 問題拆解並輸出表格 : [Code Link](https://github.com/huangpinjia/LAT/blob/main/HWone.ipynb)
 
-##### HW2 整理數據並提出三個問題:[Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/homeworktwo.ipynb)
+##### HW2 整理數據並提出三個問題 : [Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/homeworktwo.ipynb)
 
-##### HW3 練習使用openAI:[Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/HW3.ipynb)
+##### HW3 練習使用openAI : [Code Link](https://nbviewer.org/github/huangpinjia/LAT/blob/main/HW3.ipynb)
 
-##### HW4 使用Azure雲端服務製作自動回覆機器人:[Result](https://github.com/huangpinjia/LAT/tree/main/HW4)
+##### HW4 使用Azure雲端服務製作自動回覆機器人 : [Result](https://github.com/huangpinjia/LAT/tree/main/HW4)
 
-##### HW5 練習使用Azure雲端服務中的電腦視覺功能:[Result](https://github.com/huangpinjia/LAT/tree/main/HW5)
+##### HW5 練習使用Azure雲端服務中的電腦視覺功能 : [Result](https://github.com/huangpinjia/LAT/tree/main/HW5)
 
 # 專題連結區
